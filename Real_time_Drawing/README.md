@@ -12,7 +12,7 @@ The Real-Time Drawing App is a collaborative tool designed to enhance meetings
 and brainstorming sessions by providing an interactive platform for drawing, annotating,
 and sharing ideas in real-time. Ideal for teams, classrooms, and virtual meetings, this app allows participants
 to draw and visualize concepts collectively, making remote collaboration as dynamic and engaging as in-person 
-interactions.<img width="1426" alt="Screenshot 2024-07-30 at 11 30 47 AM" src="https://github.com/user-attachments/assets/fc569992-f432-41a3-b385-7d47165586f6">
+interactions.
 
 
 https://github.com/user-attachments/assets/2e2dfde2-ccd0-443c-8c0c-835e3b1231e8
