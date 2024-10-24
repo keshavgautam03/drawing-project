@@ -3,9 +3,7 @@ For more information and to try the app, visit our [website](https://real-time-d
 
 ### Access Information
 
-- **User ID:** `arjun_1`
-- **Password:** `love2laugh`
-- **Room ID:** `c3q67qaag-1722320198050`
+
 
 # Description                              
 The Real-Time Drawing App is a collaborative tool designed to enhance meetings 
